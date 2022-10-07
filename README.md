@@ -31,26 +31,25 @@
 # 결과
 > __**FPS**__
 >>
->> OFF: 230
+>> OFF: 230/fps
 >>
->> ON: 140
+>> ON: 140/fps
 >>
->> ON+BOOST: 130
+>> ON+BOOST: 130/fps
 >>
 > __**LATENCY**__
 >>
->> OFF: 11~13
+>> OFF: 11~13/ms
 >>
->> ON: 10~13
+>> ON: 10~13/ms
 >>
->> ON+BOOST: 10~12
+>> ON+BOOST: 10~12/ms
 
 ### 다른거 필요없고 결과만!!
-> OFF : 평균 5ms
+> OFF : 11~13/ms
 >
-> ON : 평균 4.5ms
+> ON : 10~13/ms
 >
-> ON+BOOST : 4ms
+> ON+BOOST : 10~12/ms
 
 ~~1ms의 차이를 느낄 기계없나요~~
-
