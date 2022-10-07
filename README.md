@@ -50,4 +50,4 @@
 `CONTRIBUTING.md` 파일 참고
 
 ### 기여자 목록
-`CONTRIBUTORS.md`파일 참고
+`CONTRIBUTORS.md` 파일 참고
