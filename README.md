@@ -49,3 +49,4 @@
 
 ### Pull 및 자료 재공, 태스트 수치 기여
 
+`CONTRIBUTING.md 파일 참고`
