@@ -24,7 +24,6 @@
 ![djmax-in-game-setting](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/djmax-in-game-setting.png)
 
 ## Test Setup
-
 - NVIDIA GeForce GTX 1050
 - MAX FPS 240
 
@@ -48,5 +47,7 @@
 ~~1ms의 차이를 느낄 기계없나요~~
 
 ### Pull 및 자료 재공, 태스트 수치 기여
+`CONTRIBUTING.md` 파일 참고
 
-`CONTRIBUTING.md 파일 참고`
+### 기여자 목록
+`CONTRIBUTORS.md`파일 참고
