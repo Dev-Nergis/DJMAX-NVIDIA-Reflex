@@ -16,7 +16,7 @@
 - NVIDIA G-SYNC
 
 ## 설정방법
-1. NVIDIA 제어판에서 NVIDIA 초저지연 모드: 활성화
+1. NVIDIA 제어판에서 NVIDIA 초저지연 모드: 울트라
 ![nvidia-reflex-control-panel-low-latency-ultra-mode](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/nvidia-reflex-control-panel-low-latency-ultra-mode.png)
 2. NVIDIA 제어판에서 전력 관리 모드: 최고 성능 선호
 ![nvidia-reflex-control-panel-prefer-maximum-performance-mode](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/nvidia-reflex-control-panel-prefer-maximum-performance-mode.png)
