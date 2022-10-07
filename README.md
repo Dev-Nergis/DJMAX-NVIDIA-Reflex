@@ -5,9 +5,9 @@
 ## NVIDIA Reflex 란?
 시스템(인/아웃) 레이턴시가 가능한 한 최소화됩니다.
 - **Before**
-![nvidia-reflex-system-latency-pipeline-before-addition-of-reflex](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/reflex-low-latency-platform/nvidia-reflex-system-latency-pipeline-before-addition-of-reflex.png)
+![nvidia-reflex-system-latency-pipeline-before-addition-of-reflex](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/nvidia-reflex-system-latency-pipeline-before-addition-of-reflex.png)
 - **After**
-![nvidia-reflex-system-latency-pipeline-with-reflex](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/reflex-low-latency-platform/nvidia-reflex-system-latency-pipeline-with-reflex.png)
+![nvidia-reflex-system-latency-pipeline-with-reflex](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/nvidia-reflex-system-latency-pipeline-with-reflex.png)
 
 - __**시스템 요구사항**__
 - Nvidia GTX 900 시리즈 이상
@@ -17,21 +17,26 @@
 
 ## 설정방법
 1. NVIDIA 제어판에서 NVIDIA 초저지연 모드: 활성화
-![nvidia-reflex-control-panel-low-latency-ultra-mode](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/reflex-low-latency-platform/nvidia-reflex-control-panel-low-latency-ultra-mode.png)
+![nvidia-reflex-control-panel-low-latency-ultra-mode](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/nvidia-reflex-control-panel-low-latency-ultra-mode.png)
 2. NVIDIA 제어판에서 전력 관리 모드: 최고 성능 선호
-![nvidia-reflex-control-panel-prefer-maximum-performance-mode](https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/reflex-low-latency-platform/nvidia-reflex-control-panel-prefer-maximum-performance-mode.png)
+![nvidia-reflex-control-panel-prefer-maximum-performance-mode](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/nvidia-reflex-control-panel-prefer-maximum-performance-mode.png)
 3.DJMAX 인게임 설정에서 활성화
-![djmax-in-game-setting](https://user-images.githubusercontent.com/78343032/194339801-f3563e4e-c590-4077-bd15-b73f2e8d20b0.png)
-
-
-
-
-
-
-
+![djmax-in-game-setting](https://raw.githubusercontent.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/main/images/djmax-in-game-setting.png)
 
 ## Test Setup
-- 
+
+- NVIDIA GeForce GTX 1050
+- MAX FPS 240
+
+# 결과
+> __**FPS**__
+>> OFF: 230
+>> ON: 140
+>> ON+BOOST: 130
+> __**LATENCY**__
+>> OFF: 11~13
+>> ON: 10~13
+>> ON+BOOST: 10~12
 
 ### 다른거 필요없고 결과만!!
 > OFF : 평균 5ms
@@ -42,6 +47,3 @@
 
 ~~1ms의 차이를 느낄 기계없나요~~
 
-※이 결과값은 다시측정 됩니다.※
-
-__작성중__
