@@ -14,6 +14,9 @@
 - Nvidia Reflex와 함께 작동하는 게임 (여기에서는 DJMAX)
 - __선택사항__
 - NVIDIA G-SYNC
+### AMD Radeon
+NVIDIA Reflex 는 AMD Radeon 에서 작동하지 않습니다.
+그대신 AMD Radeon Boost 를 사용할수 있습니다.
 
 ## 설정방법
 1. NVIDIA 제어판에서 NVIDIA 초저지연 모드: 울트라
