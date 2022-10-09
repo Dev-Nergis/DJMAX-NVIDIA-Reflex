@@ -52,6 +52,7 @@ NVIDIA Reflex 는 AMD Radeon 에서 작동하지 않습니다.
 ## 버그
 ### 해결되면 ✅ 가 생김니다.
 - [X] Test
+[Issue Tracker](https://github.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/issues/2)
 - [ ] 수직동기화 적용 안됨
 [Issue Tracker](https://github.com/Dev-Nergis/DJMAX-NVIDIA-Reflex/issues/3)
 - [ ] 검은 배경
