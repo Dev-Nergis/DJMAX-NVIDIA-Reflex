@@ -47,6 +47,12 @@ NVIDIA Reflex 는 AMD Radeon 에서 작동하지 않습니다.
 >>
 >> ON+BOOST: 10~12/ms
 
+|결과|FPS/fps|LATENCY/ms|
+|:-:|--:|---:|
+|OFF|230|11~13|
+|ON|140|10~13|
+|ON+BOOST|130|10~12|
+
 ~~1ms의 차이를 느낄 기계없나요~~
 
 ## 버그
