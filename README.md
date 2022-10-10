@@ -31,23 +31,7 @@ NVIDIA Reflex 는 AMD Radeon 에서 작동하지 않습니다.
 - MAX FPS 240
 
 ## 결과
-> __**FPS**__
->>
->> OFF: 230/fps
->>
->> ON: 140/fps
->>
->> ON+BOOST: 130/fps
->>
-> __**LATENCY**__
->>
->> OFF: 11~13/ms
->>
->> ON: 10~13/ms
->>
->> ON+BOOST: 10~12/ms
-
-|결과|FPS/fps|LATENCY/ms|
+|설정|FPS/fps|LATENCY/ms|
 |:-:|--:|---:|
 |OFF|230|11~13|
 |ON|140|10~13|
